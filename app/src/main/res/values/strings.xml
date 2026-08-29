@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Maaz X Launcher</string>
+    <string name="app_version">v4.0</string>
+    <string name="app_description">Minecraft Java Launcher for Android Tablets</string>
+    
+    <!-- Main Screen Strings -->
+    <string name="main_title">Maaz X Launcher</string>
+    <string name="play_button">PLAY MINECRAFT JAVA</string>
+    <string name="select_version">Select Version</string>
+    <string name="welcome_message">Welcome back, %1$s</string>
+    
+    <!-- Navigation -->
+    <string name="nav_play">Play</string>
+    <string name="nav_versions">Versions</string>
+    <string name="nav_modpacks">Modpacks</string>
+    <string name="nav_accounts">Accounts</string>
+    <string name="nav_skins">Skins</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_crashlogs">Crash Logs</string>
+    <string name="nav_github">GitHub</string>
+    
+    <!-- Game Controls -->
+    <string name="btn_jump">JUMP</string>
+    <string name="btn_sneak">SNEAK</string>
+    <string name="btn_sprint">SPRINT</string>
+    <string name="btn_attack">ATTACK</string>
+    <string name="btn_use">USE</string>
+    <string name="btn_inventory">E</string>
+    <string name="btn_chat">T</string>
+    <string name="btn_escape">ESC</string>
+    
+    <!-- Device Info -->
+    <string name="device_cpu">CPU</string>
+    <string name="device_gpu">GPU</string>
+    <string name="device_ram">RAM</string>
+    <string name="account_username">Username</string>
+    <string name="account_mode">Mode</string>
+    <string name="performance_fps">FPS</string>
+    <string name="performance_ram">RAM Usage</string>
+    
+    <!-- Status Messages -->
+    <string name="status_launching">Launching Minecraft...</string>
+    <string name="status_running">Minecraft is running</string>
+    <string name="status_stopped">Game stopped</string>
+    <string name="status_error">Error: %1$s</string>
+    <string name="status_no_account">No account selected</string>
+</resources>
